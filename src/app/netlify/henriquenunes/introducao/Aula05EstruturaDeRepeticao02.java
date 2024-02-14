@@ -1,4 +1,4 @@
-package app.netlify.henriquenunes;
+package app.netlify.henriquenunes.introducao;
 
 public class Aula05EstruturaDeRepeticao02 {
     public static void main(String[] args) {

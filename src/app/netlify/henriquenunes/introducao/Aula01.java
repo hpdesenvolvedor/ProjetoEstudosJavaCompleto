@@ -1,4 +1,4 @@
-package app.netlify.henriquenunes;
+package app.netlify.henriquenunes.introducao;
 
 public class Aula01 {
     public static void main(String[] args) {

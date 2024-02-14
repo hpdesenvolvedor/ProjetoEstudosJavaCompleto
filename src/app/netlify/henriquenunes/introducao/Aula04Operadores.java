@@ -1,4 +1,4 @@
-package app.netlify.henriquenunes;
+package app.netlify.henriquenunes.introducao;
 
 public class Aula04Operadores {
     public static void main(String[]arg) {
