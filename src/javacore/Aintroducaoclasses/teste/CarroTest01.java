@@ -16,6 +16,8 @@ public class CarroTest01 {
         carro02.modelo = "208";
         carro02.ano = 2024;
 
+        carro01 = carro02;  //fazendo referencia de objeto
+
         System.out.println(carro01.nome);
         System.out.println(carro01.modelo);
         System.out.println(carro01.ano);
