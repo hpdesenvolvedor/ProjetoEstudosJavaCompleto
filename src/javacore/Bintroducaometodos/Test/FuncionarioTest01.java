@@ -7,12 +7,12 @@ public class FuncionarioTest01 {
 
         Funcionario funcionario = new Funcionario();
 
-        funcionario.nome = "Joao";
-        funcionario.idade = 23;
-        funcionario.salarios = new double[]{1200, 987.32, 2000};
+        funcionario.setNome("Joao");
+        funcionario.setIdade(23);
+        funcionario.setSalarios(new double[]{1200, 987.32, 2000});
 
         funcionario.imprime();
-        funcionario.imprimeMediaSalario();
+        System.out.print("\nMédia "+ funcionario.getMedia());
 
     }
 }
