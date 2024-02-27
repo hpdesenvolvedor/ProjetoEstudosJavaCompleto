@@ -1,16 +1,23 @@
-package javacore.Eblocosdeinicializacao.domain;
+package javacore.Fmodificadorestatico.dominio;
 
 public class Anime {
     private String nome;
-    private int[] episodios;
-
+    private static int[] episodios;
+    // 0 - Bloco de inicialização é executado quando a JVM carregar classe
     // 1 - Alocado espaco em memoria pro objeto
     // 2 - Cada atributo de classe é criado e inicializado com valores default ou o que for passado
     // 3 - Bloco de inicializacao é executado
     // 4 - Contrutor é executado
-    {
-        System.out.println("Dentro do bloco de inicialização");
+    static {
+        System.out.println("Dentro do bloco de inicialização 1");
     }
+    static {
+        System.out.println("Dentro do bloco de inicialização 2");
+    }
+    static {
+        System.out.println("Dentro do bloco de inicialização 3");
+    }
+
 
     public Anime(String nome) {
         this.nome = nome;
@@ -30,7 +37,7 @@ public class Anime {
             episodios[i] = i+1;
         }
 
-        for (int episodio: this.episodios) {
+        for (int episodio: Anime.episodios) {
             System.out.print(episodio + " ");
         }
         System.out.println();
