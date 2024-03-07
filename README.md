@@ -2,8 +2,8 @@ Meus estudos na linguagem JAVA.
 Onde estou me especializando na linguagem e aprimorando cada vez mais.
 Aqui posto o andamento na qual estou desenvolvendo, segue a lista do que já estudei...
 
-1	Maratona JAVA
-2	Como o Java Funciona
+1	Maratona JAVA.
+2	Como o Java Funciona.
 3	Fazendo o Download da JDK 15
 4	Configurando variaveis de ambiente
 5	Executando compiçação manualmente
