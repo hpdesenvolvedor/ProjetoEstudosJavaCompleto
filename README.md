@@ -32,7 +32,7 @@ Aqui vou adicionando na grade os conteúdos que já desenvolvi, segue a lista do
 28.	Estrutura de Repetição: Exercício
 29.	Estrutura de Repetição: Break
 30.	Estrutura de Repetição: Exercício Break
-31.	Estrutura de Repetição: Conitnue
+31.	Estrutura de Repetição: Continue
 32.	Arrays pt01
 33.	Arrays pt02
 34.	Arrays pt03
