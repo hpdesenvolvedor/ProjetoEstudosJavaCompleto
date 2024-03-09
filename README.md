@@ -80,6 +80,11 @@ Aqui posto o andamento na qual estou desenvolvendo, segue a lista do que já est
 76.	POO - Sobrescrita do Método toString
 77.	POO - Modificador final pt01 - Tipo primitivo
 78.	POO - Modificador final pt02 - Tipo referência
+79.	POO - Modificador final pt03 - Classes e métodos
+80. POO - Enumeração pt01 - Introdução
+81. POO - Enumeração pt02 - Construtores e atributos
+
+
 
 
 
