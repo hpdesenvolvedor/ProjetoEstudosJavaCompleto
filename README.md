@@ -1,6 +1,6 @@
 Meus estudos na linguagem JAVA.
 Onde estou me especializando na linguagem e aprimorando cada vez mais.
-Aqui posto o andamento na qual estou desenvolvendo, segue a lista do que já estudei...
+Aqui vou adicionando na grade os conteúdos que já desenvolvi, segue a lista do que já estudei...
 
 1.	Maratona JAVA
 2.	Como o Java Funciona
@@ -32,7 +32,7 @@ Aqui posto o andamento na qual estou desenvolvendo, segue a lista do que já est
 28.	Estrutura de Repetição: Exercício
 29.	Estrutura de Repetição: Break
 30.	Estrutura de Repetição: Exercício Break
-31.	Estrutura de Repetição: Conitnue
+31.	Estrutura de Repetição: Continue
 32.	Arrays pt01
 33.	Arrays pt02
 34.	Arrays pt03
@@ -80,6 +80,11 @@ Aqui posto o andamento na qual estou desenvolvendo, segue a lista do que já est
 76.	POO - Sobrescrita do Método toString
 77.	POO - Modificador final pt01 - Tipo primitivo
 78.	POO - Modificador final pt02 - Tipo referência
+79.	POO - Modificador final pt03 - Classes e métodos
+80. POO - Enumeração pt01 - Introdução
+81. POO - Enumeração pt02 - Construtores e atributos
+
+
 
 
 
