@@ -84,7 +84,7 @@ Aqui vou adicionando na grade os conteúdos que já desenvolvi, segue a lista do
 80. POO - Enumeração pt01 - Introdução
 81. POO - Enumeração pt02 - Construtores e atributos
 82. POO - Enumeração pt03 - Sobrescrita de métodos
-83	POO - Enumeração pt04 - Busca por atributos
+83.	POO - Enumeração pt04 - Busca por atributos
 
 
 
