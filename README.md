@@ -98,6 +98,10 @@ Aqui vou adicionando na grade os conteúdos que já desenvolvi, segue a lista do
 94.	POO - Polimorfismo pt05 - Programação orientada a interface
 95. Exceções pt01 - Errors
 96. Exceções pt02 - RuntimeException
+97. Exceções pt03 - Exception
+98. Exceções pt04 - Lançando exceção unchecked
+
+
 
 
 
