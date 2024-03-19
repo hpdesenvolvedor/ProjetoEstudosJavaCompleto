@@ -100,6 +100,8 @@ Aqui vou adicionando na grade os conteúdos que já desenvolvi, segue a lista do
 96. Exceções pt02 - RuntimeException
 97. Exceções pt03 - Exception
 98. Exceções pt04 - Lançando exceção unchecked
+99. Exceções pt05 - Lançando exceção cheked
+
 
 
 
