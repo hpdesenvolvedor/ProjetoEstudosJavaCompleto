@@ -101,6 +101,11 @@ Aqui vou adicionando na grade os conteúdos que já desenvolvi, segue a lista do
 97. Exceções pt03 - Exception
 98. Exceções pt04 - Lançando exceção unchecked
 99. Exceções pt05 - Lançando exceção cheked
+100. Exceções pt06 - Bloco Finally
+101. Exceções pt07 - Capturando Multiplas exceções
+102. Exceções pt08 - Multi catch em linha
+
+
 
 
 
