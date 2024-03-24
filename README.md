@@ -104,6 +104,11 @@ Aqui vou adicionando na grade os conteúdos que já desenvolvi, segue a lista do
 100. Exceções pt06 - Bloco Finally
 101. Exceções pt07 - Capturando Multiplas exceções
 102. Exceções pt08 - Multi catch em linha
+103. Exceções pt09 - Try with resources
+104. Exceções pt10 - Exceções customizada
+105. Exceções pt11 - Exceções e regras de sobrescrita
+
+
 
 
 
