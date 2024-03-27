@@ -107,6 +107,14 @@ Aqui vou adicionando na grade os conteúdos que já desenvolvi, segue a lista do
 103. Exceções pt09 - Try with resources
 104. Exceções pt10 - Exceções customizada
 105. Exceções pt11 - Exceções e regras de sobrescrita
+106. Classes Utilitárias - Wrappers pt01
+107. Classes Utilitárias - Strings pt01
+108. Classes Utilitárias - Strings pt02
+109. Classes Utilitárias - Strings pt03 - Desempenho
+110. Classes Utilitárias - Strings pt04 - StringBuider
+111. Classes Utilitárias - Date
+
+
 
 
 
