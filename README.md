@@ -6,7 +6,7 @@ Aqui vou adicionando na grade os conteúdos que já desenvolvi, segue a lista do
 2.	Como o Java Funciona
 3.	Fazendo o Download da JDK 15
 4.	Configurando variaveis de ambiente
-5.	Executando compiçação manualmente
+5.	Executando compilação manualmente
 6.	Download da IDE Intellij Community
 7.	Conhecendo a IDE Intellij Community
 8.	Organizando o código em pacotes
