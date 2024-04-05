@@ -121,6 +121,17 @@ Aqui vou adicionando na grade os conteúdos que já desenvolvi, segue a lista do
 117. Classes Utilitárias - LocalDate
 118. Classes Utilitárias - LocalTime
 119. Classes Utilitárias - LocalDateTime
+120. Classes Utilitárias - Instance
+121. Classes Utilitárias - Duration
+122. Classes Utilitárias - Period
+123. Classes Utilitárias - ChronoUnit
+124. Classes Utilitárias - TemporalAdjusters
+125. Classes Utilitárias - TemporalAdjuster
+126. Classes Utilitárias - ZonedDateTime, Zoneld, OffsetDateTime
+127. Classes Utilitárias - DateTimeFormatter
+128. Classes Utilitárias - ResourceBundle
+
+
 
 
 
