@@ -130,6 +130,13 @@ Aqui vou adicionando na grade os conteúdos que já desenvolvi, segue a lista do
 126. Classes Utilitárias - ZonedDateTime, Zoneld, OffsetDateTime
 127. Classes Utilitárias - DateTimeFormatter
 128. Classes Utilitárias - ResourceBundle
+129. Classes Utilitárias - Regex pt01 - Pattern e Matcher
+130. Classes Utilitárias - Regex pt02 - Pattern e Matcher - Meta Caracteres
+131. Classes Utilitárias - Regex pt03 - Pattern e Matcher - Range
+132. Classes Utilitárias - Regex pt04 - Pattern e Matcher - Qualificadores
+133. Classes Utilitárias - Regex pt05 - Pattern e Matcher - Qualificadores pt 02
+
+
 
 
 
