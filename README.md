@@ -135,6 +135,10 @@ Aqui vou adicionando na grade os conteúdos que já desenvolvi, segue a lista do
 131. Classes Utilitárias - Regex pt03 - Pattern e Matcher - Range
 132. Classes Utilitárias - Regex pt04 - Pattern e Matcher - Qualificadores
 133. Classes Utilitárias - Regex pt05 - Pattern e Matcher - Qualificadores pt 02
+134. Classes Utilitárias - Scanner - Tokens e Delimitadores
+135. Classes Utilitárias - IO pt01 - File
+
+
 
 
 
