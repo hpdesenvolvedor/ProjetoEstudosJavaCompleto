@@ -137,6 +137,12 @@ Aqui vou adicionando na grade os conteúdos que já desenvolvi, segue a lista do
 133. Classes Utilitárias - Regex pt05 - Pattern e Matcher - Qualificadores pt 02
 134. Classes Utilitárias - Scanner - Tokens e Delimitadores
 135. Classes Utilitárias - IO pt01 - File
+136. Classes Utilitárias - IO pt02 - FileWrite
+137. Classes Utilitárias - IO pt03 - FileReader
+138. Classes Utilitárias - IO pt04 - BufferedWriter
+139. Classes Utilitárias - IO pt05 - BufferedReader
+
+
 
 
 
