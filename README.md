@@ -141,6 +141,15 @@ Aqui vou adicionando na grade os conteúdos que já desenvolvi, segue a lista do
 137. Classes Utilitárias - IO pt03 - FileReader
 138. Classes Utilitárias - IO pt04 - BufferedWriter
 139. Classes Utilitárias - IO pt05 - BufferedReader
+140. Classes Utilitárias - NIO pt01 - Path, Paths, Files pt.01
+141. Classes Utilitárias - NIO pt02 - Path, Paths, Files pt.02
+142. Classes Utilitárias - NIO pt03 - Normalização
+143. Classes Utilitárias - NIO pt04 - Resolvendo Paths
+144. Classes Utilitárias - NIO pt05 - Relativize
+145. Classes Utilitárias - NIO pt06 - BasicFileAttributes pt01
+146. Classes Utilitárias - NIO pt07 - BasicFileAttributes pt02
+
+
 
 
 
