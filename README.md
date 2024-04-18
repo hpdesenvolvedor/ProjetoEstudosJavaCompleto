@@ -102,52 +102,69 @@ Aqui vou adicionando na grade os conteúdos que já desenvolvi, segue a lista do
 98. Exceções pt04 - Lançando exceção unchecked
 99. Exceções pt05 - Lançando exceção cheked
 100. Exceções pt06 - Bloco Finally
-101. Exceções pt07 - Capturando Multiplas exceções
-102. Exceções pt08 - Multi catch em linha
-103. Exceções pt09 - Try with resources
-104. Exceções pt10 - Exceções customizada
-105. Exceções pt11 - Exceções e regras de sobrescrita
-106. Classes Utilitárias - Wrappers pt01
-107. Classes Utilitárias - Strings pt01
-108. Classes Utilitárias - Strings pt02
-109. Classes Utilitárias - Strings pt03 - Desempenho
-110. Classes Utilitárias - Strings pt04 - StringBuider
-111. Classes Utilitárias - Date
-112. Classes Utilitárias - Calendar
-113. Classes Utilitárias - DateFormat
-114. Classes Utilitárias - Internacionalização Datas com Locale
-115. Classes Utilitárias - Internacionalização de Moedas com Locale
-116. Classes Utilitárias - Simple Date Format
-117. Classes Utilitárias - LocalDate
-118. Classes Utilitárias - LocalTime
-119. Classes Utilitárias - LocalDateTime
-120. Classes Utilitárias - Instance
-121. Classes Utilitárias - Duration
-122. Classes Utilitárias - Period
-123. Classes Utilitárias - ChronoUnit
-124. Classes Utilitárias - TemporalAdjusters
-125. Classes Utilitárias - TemporalAdjuster
-126. Classes Utilitárias - ZonedDateTime, Zoneld, OffsetDateTime
-127. Classes Utilitárias - DateTimeFormatter
-128. Classes Utilitárias - ResourceBundle
-129. Classes Utilitárias - Regex pt01 - Pattern e Matcher
-130. Classes Utilitárias - Regex pt02 - Pattern e Matcher - Meta Caracteres
-131. Classes Utilitárias - Regex pt03 - Pattern e Matcher - Range
-132. Classes Utilitárias - Regex pt04 - Pattern e Matcher - Qualificadores
-133. Classes Utilitárias - Regex pt05 - Pattern e Matcher - Qualificadores pt 02
-134. Classes Utilitárias - Scanner - Tokens e Delimitadores
-135. Classes Utilitárias - IO pt01 - File
-136. Classes Utilitárias - IO pt02 - FileWrite
-137. Classes Utilitárias - IO pt03 - FileReader
-138. Classes Utilitárias - IO pt04 - BufferedWriter
-139. Classes Utilitárias - IO pt05 - BufferedReader
-140. Classes Utilitárias - NIO pt01 - Path, Paths, Files pt.01
-141. Classes Utilitárias - NIO pt02 - Path, Paths, Files pt.02
-142. Classes Utilitárias - NIO pt03 - Normalização
-143. Classes Utilitárias - NIO pt04 - Resolvendo Paths
-144. Classes Utilitárias - NIO pt05 - Relativize
-145. Classes Utilitárias - NIO pt06 - BasicFileAttributes pt01
-146. Classes Utilitárias - NIO pt07 - BasicFileAttributes pt02
+101.	Exceções pt07 - Capturando Multiplas exceções
+102.	Exceções pt08 - Multi catch em linha
+103.	Exceções pt09 - Try with resources
+104.	Exceções pt10 - Exceções customizada
+105.	Exceções pt11 - Exceções e regras de sobrescrita
+106.	Classes Utilitárias - Wrappers pt01
+107.	Classes Utilitárias - Wrappers pt02
+108.	Classes Utilitárias - Strings pt01
+109.	Classes Utilitárias - Strings pt02
+110.	Classes Utilitárias - Strings pt03 - Desempenho
+111.	Classes Utilitárias - Strings pt04 - StringBuider
+112.	Classes Utilitárias - Date
+113.	Classes Utilitárias - Calendar
+114.	Classes Utilitárias - DateFormat
+115.	Classes Utilitárias - Internacionalização Datas com Locale
+116.	Classes Utilitárias - Internacionalização com Locale
+117.	Classes Utilitárias - Internacionalização de Moedas com Locale
+118.	Classes Utilitárias - Simple Date Format
+119.	Classes Utilitárias - LocalDate
+120.	Classes Utilitárias - LocalTime
+121.	Classes Utilitárias - LocalDateTime
+122.	Classes Utilitárias - Instance
+123.	Classes Utilitárias - Duration
+124.	Classes Utilitárias - Period
+125.	Classes Utilitárias - ChronoUnit
+126.	Classes Utilitárias - TemporalAdjusters
+127.	Classes Utilitárias - TemporalAdjuster
+128.	Classes Utilitárias - ZonedDateTime, Zoneld, OffsetDateTime
+129.	Classes Utilitárias - DateTimeFormatter
+130.	Classes Utilitárias - ResourceBundle
+131.	Classes Utilitárias - Regex pt01 - Pattern e Matcher
+132.	Classes Utilitárias - Regex pt02 - Pattern e Matcher - Meta Caracteres
+133.	Classes Utilitárias - Regex pt03 - Pattern e Matcher - Range
+134.	Classes Utilitárias - Regex pt04 - Pattern e Matcher - Qualificadores
+135.	Classes Utilitárias - Regex pt05 - Pattern e Matcher - Qualificadores pt 02
+136.	Classes Utilitárias - Regex pt06 - Pattern e Matcher - Anchor
+137.	Classes Utilitárias - Scanner - Tokens e Delimitadores
+138.	Classes Utilitárias - IO pt01 - File
+139.	Classes Utilitárias - IO pt02 - FileWrite
+140.	Classes Utilitárias - IO pt03 - FileReader
+141.	Classes Utilitárias - IO pt04 - BufferedWriter
+142.	Classes Utilitárias - IO pt05 - BufferedReader
+143.	Classes Utilitárias - IO pt06 - File para Diretórios
+144.	Classes Utilitárias - NIO pt01 - Path, Paths, Files pt.01
+145.	Classes Utilitárias - NIO pt02 - Path, Paths, Files pt.02
+146.	Classes Utilitárias - NIO pt03 - Normalização
+147.	Classes Utilitárias - NIO pt04 - Resolvendo Paths
+148.	Classes Utilitárias - NIO pt05 - Relativize
+149.	Classes Utilitárias - NIO pt06 - BasicFileAttributes pt01
+150.	Classes Utilitárias - NIO pt07 - BasicFileAttributes pt02
+151.	Classes Utilitárias - NIO pt08 - DosFileAttribute
+152.	Classes Utilitárias - NIO pt09 - PosixFileAttributes
+153.	Classes Utilitárias - NIO pt10 - DirectoryStream
+154.	Classes Utilitárias - NIO pt11 - SimpleFileVisitor pt01
+155.	Classes Utilitárias - NIO pt12 - SimpleFileVisitor pt02
+156.	Classes Utilitárias - NIO pt13 - PathMatcher pt01
+157.	Classes Utilitárias - NIO pt14 - PathMatcher pt02
+158.	Classes Utilitárias - NIO pt15 - ZipOutputStream 
+159.	Classes Utilitárias - Serialization pt01
+160.	Classes Utilitárias - Serialization pt02
+
+
+
 
 
 
