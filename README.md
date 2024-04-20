@@ -162,6 +162,17 @@ Aqui vou adicionando na grade os conteúdos que já desenvolvi, segue a lista do
 158.	Classes Utilitárias - NIO pt15 - ZipOutputStream 
 159.	Classes Utilitárias - Serialization pt01
 160.	Classes Utilitárias - Serialization pt02
+161.	Coleções pt01 - equals
+162.	Coleções pt02 - equals
+163.	Coleções pt03 - hashCode pt 01
+164.	Coleções pt04 - hashCode pt 01
+165.	Coleções pt05 - Complexidade Big-O
+166.	Coleções pt06 - List pt 01
+167.	Coleções pt06 - List pt 02
+168. Coleções pt06 - List pt 03
+
+
+
 
 
 
