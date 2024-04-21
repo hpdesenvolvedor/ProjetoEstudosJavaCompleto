@@ -170,6 +170,11 @@ Aqui vou adicionando na grade os conteúdos que já desenvolvi, segue a lista do
 166.	Coleções pt06 - List pt 01
 167.	Coleções pt06 - List pt 02
 168. Coleções pt06 - List pt 03
+169. Coleções pt09 - Sorting list pt 01
+170.	Coleções pt10 - Sorting list pt 02
+171.	Coleções pt11 - Sorting list pt 03
+
+
 
 
 
