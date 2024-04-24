@@ -173,6 +173,17 @@ Aqui vou adicionando na grade os conteúdos que já desenvolvi, segue a lista do
 169. Coleções pt09 - Sorting list pt 01
 170.	Coleções pt10 - Sorting list pt 02
 171.	Coleções pt11 - Sorting list pt 03
+172.	Coleções pt12 - Binary Search
+173.	Coleções pt13 - Conversão de Lista para Arrays e vice versa
+174.	Coleções pt14 - Iterator
+175.	Coleções pt15 - Set, HashSet
+176.	Coleções pt16 - TreeSet pt 01
+177.	Coleções pt17 - TreeSet pt 02
+178.	Coleções pt18 - Map, HashMap, LinkedHashMap pt 01
+179.	Coleções pt19 - Map, HashMap, LinkedHashMap pt 02
+180.	Coleções pt20 - Map, HashMap, LinkedHashMap pt 03
+
+
 
 
 
