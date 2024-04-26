@@ -22,6 +22,10 @@ public class WildcardTest01 {
 
         Cachorro[] cachorros  = {new Cachorro(), new Cachorro()};
         Gato[] gatos = {new Gato(), new Gato()};
+        printConsulta(cachorros);
+        printConsulta(gatos);
+        Animal[] animals = {new Gato(), new Cachorro()};
+        printConsulta(animals);
     }
     private static void printConsulta(Animal[] animals){
         for (Animal animal : animals) {
