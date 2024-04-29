@@ -186,7 +186,11 @@ Aqui vou adicionando na grade os conteúdos que já desenvolvi, segue a lista do
 182.	Coleções pt22 - Queue, PriorituQueue
 183.	Generics pt 01 - Introdução
 184.	Generics pt 02 - Wildcard pt 01	
-185.	Generics pt 03 - Wildcard pt 02	
+185.	Generics pt 03 - Wildcard pt 02
+186.	Generics pt 04 - Classes Genéricas pt 01
+187.  Generics pt 05 - Classes Genéricas pt 01
+
+
 
 
 
