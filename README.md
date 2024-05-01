@@ -190,8 +190,12 @@ Aqui vou adicionando na grade os conteúdos que já desenvolvi, segue a lista do
 186.	Generics pt 04 - Classes Genéricas pt 01
 187.  Generics pt 05 - Classes Genéricas pt 01
 188.  Generics pt 06 - Metodos Genericos
-189. Classes Internas pt 01 - Introdução
-190 - Classes Internas pt 02 - Classes Locais
+189.  Classes Internas pt 01 - Introdução
+190.  Classes Internas pt 02 - Classes Locais
+191.	Classes Internas pt 03 - Classes Anônimas
+192.	Classes Internas pt 04 - Classes aninhadas estáticas
+
+
 
 
 
