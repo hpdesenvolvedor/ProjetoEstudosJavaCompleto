@@ -1,13 +1,13 @@
-package javacore.Zgenerics.test;
+package javacore.ZZAclassesinternas.test;
 
 
 
-public class OuterClassesTest01 {
+public class OuterClassesTest03 {
     private String name = "Henrique";
     static class Nested{
         private String lastanme = "Nunes";
        void print(){
-           System.out.println(new OuterClassesTest01().name+ " " + lastanme);
+           System.out.println(new OuterClassesTest03().name+ " " + lastanme);
        }
 
     }
