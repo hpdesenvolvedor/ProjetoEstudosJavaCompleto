@@ -194,6 +194,13 @@ Aqui vou adicionando na grade os conteúdos que já desenvolvi, segue a lista do
 190.  Classes Internas pt 02 - Classes Locais
 191.	Classes Internas pt 03 - Classes Anônimas
 192.	Classes Internas pt 04 - Classes aninhadas estáticas
+193.	Parametrizando comportamentos pt 01
+194.	Parametrizando comportamentos pt 02
+195.	Lambdas pt 01 - Predicate
+196.	Lambdas pt 02 - Consumer
+197.	Lambdas pt 03 - Function
+
+
 
 
 
