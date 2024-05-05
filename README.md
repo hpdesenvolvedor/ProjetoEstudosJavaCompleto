@@ -202,6 +202,10 @@ Aqui vou adicionando na grade os conteúdos que já desenvolvi, segue a lista do
 198.	Method Reference pt 01 - Referência a métodos estáticos
 199.	Method Reference pt 02 - Referência a métodos não estáticos
 200.	Method Reference pt 03 - Referência a construtor
+201.	Optional pt 01
+202.	Optional pt 02
+
+
 
 
 
