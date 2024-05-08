@@ -207,6 +207,9 @@ Aqui vou adicionando na grade os conteúdos que já desenvolvi, segue a lista do
 203.	Streams pt 01 - Introduction pt 01
 204.	Streams pt 02 - Introduction pt 02
 205.	Streams pt 03 - Introduction pt 03
+206.	Streams pt 04 - FlatMap pt 01
+207	Streams pt 05 - FlatMap pt 02
+
 
 
 
