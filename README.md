@@ -208,7 +208,16 @@ Aqui vou adicionando na grade os conteúdos que já desenvolvi, segue a lista do
 204.	Streams pt 02 - Introduction pt 02
 205.	Streams pt 03 - Introduction pt 03
 206.	Streams pt 04 - FlatMap pt 01
-207	Streams pt 05 - FlatMap pt 02
+207.	Streams pt 05 - FlatMap pt 02
+208.	Streams pt 06 - Finding and Matching
+209.	Streams pt 07 - Reduce pt 01
+210.	Streams pt 08 - Reduce pt 02
+211.	Streams pt 09 - Gerando streams pt 01
+212.	Streams pt 10 - Gerando streams pt 02
+
+
+
+
 
 
 
