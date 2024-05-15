@@ -3,7 +3,7 @@ package javacore.ZZEstreams.test;
 import java.util.Arrays;
 import java.util.stream.Stream;
 
-public class StreamsTest10 {
+public class StreamTest10 {
     public static void main(String[] args) {
         Stream.iterate(1, n -> n + 2)
                 .limit(10)
