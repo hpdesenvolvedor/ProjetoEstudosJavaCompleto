@@ -40,10 +40,11 @@ public class ThreadsTest01 {
         /*ThreadExample t2 = new ThreadExample('B');*/
         /*ThreadExample t3 = new ThreadExample('C');*/
         /*ThreadExample t4 = new ThreadExample('D');*/
-        Thread t1 = new Thread(new ThreadExampleRunnable('A'));
-        Thread t2 = new Thread(new ThreadExampleRunnable('B'));
-        Thread t3 = new Thread(new ThreadExampleRunnable('C'));
-        Thread t4 = new Thread(new ThreadExampleRunnable('D'));
+        Thread t1 = new Thread(new ThreadExampleRunnable('A'),"T1A");
+        Thread t2 = new Thread(new ThreadExampleRunnable('B'), "T1B");
+        Thread t3 = new Thread(new ThreadExampleRunnable('C'), "T1C");
+        Thread t4 = new Thread(new ThreadExampleRunnable('D'), "T1D");
+
         t1.start();
         t2.start();
         t3.start();
