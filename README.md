@@ -214,6 +214,20 @@ Aqui vou adicionando na grade os conteúdos que já desenvolvi, segue a lista do
 210.	Streams pt 08 - Reduce pt 02
 211.	Streams pt 09 - Gerando streams pt 01
 212.	Streams pt 10 - Gerando streams pt 02
+213.	Streams pt 11 - Collectors pt 01 Summarizing
+214.	Streams pt 12 - Collectors pt 02 - Grouping by pt 01
+215.	Streams pt 13 - Collectors pt 03 - Grouping by pt 02
+216.	Streams pt 14 - Collectors pt 04 - Grouping by pt 03
+217.	Streams pt 15 - Collectors pt 05 - Grouping by pt 04
+218.	Streams pt 16 - Parallel Streams pt 01
+219.	Streams pt 17 - Parallel Streams pt 02
+220.	Treads pt 01 - Introduction
+221.	Treads pt 02 - Estados das Threads
+222.	Treads pt 03 - Prioridade e Sleep
+223.	Treads pt 04 - Yield e Join
+224.	Treads pt 05 - Sincronismo de Thread pt 01
+
+
 
 
 
