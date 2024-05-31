@@ -236,6 +236,13 @@ Aqui vou adicionando na grade os conteúdos que já desenvolvi, segue a lista do
 232.	Concorrência pt 04 - ReentrantReadWriteLock
 233.	Concorrência pt 05 - CopyOnWriteArraysList
 234.	Concorrência pt 06 - ArrayBlockingQueue
+235.	Concorrência pt 07 - LinkedTransferQueue
+236.	Concorrência pt 08 - Executors pt 01 - Thread Pools
+237.	Concorrência pt 09 - Executors pt 02 - ScheduleExecutorService
+238.	Concorrência pt 10 - Executors pt 03 - Interface Callable
+239.	Concorrência pt 11 - Executors pt 04 - Future
+
+
 
 
 
