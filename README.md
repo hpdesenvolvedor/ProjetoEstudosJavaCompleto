@@ -241,6 +241,18 @@ Aqui vou adicionando na grade os conteúdos que já desenvolvi, segue a lista do
 237.	Concorrência pt 09 - Executors pt 02 - ScheduleExecutorService
 238.	Concorrência pt 10 - Executors pt 03 - Interface Callable
 239.	Concorrência pt 11 - Executors pt 04 - Future
+240.	Concorrência pt 12 - CompletableFuture pt 01 - get and join
+241.	Concorrência pt 13 - CompletableFuture pt 02 - Streams
+242.	Concorrência pt 14 - CompletableFuture pt 03 - ThreadFactory
+243.	Concorrência pt 15 - CompletableFuture pt 04 - Encadeando chamadas pt 01
+244.	Concorrência pt 16 - CompletableFuture pt 05 - Encadeando chamadas pt 02
+245.	Concorrência pt 17 - CompletableFuture pt 06 - allOf, anyOf
+246.	Padrões de Projeto pt 01 - Builder
+247.	Padrões de Projeto pt 02 - Factory
+248.	Padrões de Projeto pt 03 - Singleton pt 01 - Eager Initialization
+249.	Padrões de Projeto pt 04 - Singleton pt 02 - Lazy Initialization
+
+
 
 
 
