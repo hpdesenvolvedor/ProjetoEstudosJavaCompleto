@@ -259,6 +259,36 @@ Aqui vou adicionando na grade os conteúdos que já desenvolvi, segue a lista do
 255.	JDBC pt 04 - Instalando e adicionando maven ao projeto
 256.	JDBC pt 05 - Adicionando dependência e conectando com banco
 257.	JDBC pt 06 - Inserindo dados com Statement
+258.	JDBC pt 07 - Lombok e Log4J2
+259.	JDBC pt 08 - Deletando dados com Statement
+260.	JDBC pt 09 - Atualizando dados com Statement
+261.	JDBC pt 10 - Buscando dados com ResultSet pt 01 - findALL
+262.	JDBC pt 11 - Buscando dados com ResultSet pt 02 - findByName
+263.	JDBC pt 12 - ResultSetMetaData
+264.	JDBC pt 13 - DatabaseMetaData
+265.	JDBC pt 14 - ResultSet TYPE SCROLL INSENSITIVE
+266.	JDBC pt 15 - Atualizando Registros com ResultSet
+267.	JDBC pt 16 - Inserindo e deletando registros com ResultSet
+268.	JDBC pt 17 - PreparedStatement pt 01
+269.	JDBC pt 18 - PreparedStatement pt 02
+270.	JDBC pt 19 - CallableStatement
+271.	JDBC pt 20 - Connected RowSet - JdbcRowSet pt 01
+272.	JDBC pt 21 - Connected RowSet - JdbcRowSet pt 02
+273.	JBDC pt 22 - Disconnected RowSet - CachedRowSet
+274.	JDBC pt 23 - Transação
+275.	JDBC pt 24 - CRUD pt 01 - findByName and findAll
+276.	JDBC pt 25 - CRUD pt 02 - delete
+277.	JDBC pt 26 - CRUD pt 03 - save
+278.	JDBC pt 27 - CRUD pt 04 - update
+279.	JDBC pt 28 - CRUD pt 05 - Anime Crud
+280.	Testes unitários com jUnit pt 01
+281.	Testes unitários com jUnit pt 02
+282.	Atualizando JDK
+283.	Record Class
+284.	Pattern Matching for instaceof
+285.	É só correr pro abraço
+
+
 
 
 
