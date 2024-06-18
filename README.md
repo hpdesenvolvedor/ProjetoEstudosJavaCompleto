@@ -1,6 +1,4 @@
-Meus estudos na linguagem JAVA.
-Onde estou me especializando na linguagem e aprimorando cada vez mais.
-Aqui vou adicionando na grade os conteúdos que já desenvolvi, segue a lista do que já estudei...
+Conteúdos desenvolvidos durante a Maratona linguagem JAVA.
 
 1.	Maratona JAVA
 2.	Como o Java Funciona
