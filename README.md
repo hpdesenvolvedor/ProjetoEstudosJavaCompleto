@@ -2,7 +2,7 @@ Conteúdos desenvolvidos durante a Maratona linguagem JAVA.
 
 1.	Maratona JAVA
 2.	Como o Java Funciona
-3.	Fazendo o Download da JDK 15
+3.	Fazendo o Download da JDK 21
 4.	Configurando variaveis de ambiente
 5.	Executando compilação manualmente
 6.	Download da IDE Intellij Community
